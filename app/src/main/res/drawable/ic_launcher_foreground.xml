@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Folded interactive whiteboard note card inside 66dp safe zone (21..87) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,26 L74,26 C77.3,26 80,28.7 80,32 L80,66 L64,82 L28,82 C24.7,82 22,79.3 22,76 L22,32 C22,28.7 24.7,26 28,26 Z" />
+    <!-- Folded corner flap -->
+    <path
+        android:fillColor="#C5E1A5"
+        android:pathData="M64,82 L64,70 C64,67.8 65.8,66 68,66 L80,66 Z" />
+    <!-- Ruler edge marks along bottom-left -->
+    <path
+        android:fillColor="#2E7D32"
+        android:pathData="M27,73 L30,73 L30,77 L27,77 Z M33,71 L36,71 L36,77 L33,77 Z M39,73 L42,73 L42,77 L39,77 Z M45,71 L48,71 L48,77 L45,77 Z M51,73 L54,73 L54,77 L51,77 Z" />
+    <!-- Bold stylized N -->
+    <path
+        android:fillColor="#1E5631"
+        android:pathData="M31,61 L31,37 L37,37 L47,51 L47,37 L53,37 L53,61 L47,61 L37,47 L37,61 Z" />
+    <!-- Stylus / Pen + '10' badge accent -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M58,39 L63,39 L63,61 L58,61 Z" />
+    <path
+        android:fillColor="#1E5631"
+        android:pathData="M66,44 C66,40.5 68.5,38.5 71.5,38.5 C74.5,38.5 77,40.5 77,44 L77,55.5 C77,59 74.5,61 71.5,61 C68.5,61 66,59 66,55.5 Z M70,44.5 L70,55 C70,56.4 70.6,57 71.5,57 C72.4,57 73,56.4 73,55 L73,44.5 C73,43.1 72.4,42.5 71.5,42.5 C70.6,42.5 70,43.1 70,44.5 Z" />
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Note 10",
+  "description": "Interactive teaching whiteboard for Android with smart pens, 2D/3D shapes, subject modes (Math, English, Physics, Chemistry), presentation tools, and multi-page notebooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

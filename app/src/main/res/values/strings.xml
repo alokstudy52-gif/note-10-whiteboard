@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Note 10</string>
+    <string name="cd_menu">Open main menu</string>
+    <string name="cd_treasure_chest">Open Treasure Chest</string>
+    <string name="cd_resource_library">Open Resource Library</string>
+    <string name="cd_select_tool">Select and edit objects</string>
+    <string name="cd_pen_tool">Pen and brushes</string>
+    <string name="cd_eraser_tool">Eraser options</string>
+    <string name="cd_shape_tool">2D shapes and smart recognizer</string>
+    <string name="cd_shape3d_tool">3D geometric solids</string>
+    <string name="cd_text_tool">Insert formatted text</string>
+    <string name="cd_roam_tool">Roam pan and zoom</string>
+    <string name="cd_undo">Undo last action</string>
+    <string name="cd_redo">Redo last action</string>
+    <string name="cd_prev_page">Previous page</string>
+    <string name="cd_next_page">Next page</string>
+    <string name="cd_add_page">Add new page</string>
+    <string name="cd_page_manager">Manage pages</string>
+    <string name="cd_subject_switcher">Switch subject mode</string>
+    <string name="cd_close">Close</string>
+</resources>
